@@ -1,1 +1,1 @@
-/COMP426-Assignment2/.vs
+/COMP426-Assignment2/.vs/*

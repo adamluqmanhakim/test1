@@ -1,0 +1,14 @@
+﻿  main.cpp
+  TBB Warning: tbb.h contains deprecated functionality. For details, please see Deprecated Features appendix in the TBB reference manual.
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(24,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(27,69): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(109,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(109,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(110,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(110,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(111,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(111,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(112,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(112,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\COMP426-Assignment2\main.cpp(436,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  COMP426-Assignment2.vcxproj -> D:\426assignment\2D-Cell-Growth-Simulation\Version2\VS Project\COMP426-Assignment2\Debug\COMP426-Assignment2.exe
